@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+.header {
+    background-color: red;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    color: blue;
+    font-size: 20px;
+
+
+}
+#gc-img {
+    
+    border: red 3px solid;
+    
+}
+img {
+    border-radius: 10%;
+    border: white 3px solid;
+}
